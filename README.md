@@ -3,7 +3,7 @@ Nexter
 </h1>
 
 <p align="center">Fake page for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://nexter-sass.vercel.app/">here</a>.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
